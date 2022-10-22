@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "https://github.com/bm-auggitorg/nodejs-app-mss.git"
+    "registry": "http://3.111.157.90:2424/bhuvanbm/repository/nodejsmss/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
